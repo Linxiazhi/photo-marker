@@ -21,7 +21,7 @@ idna==2.7
 ipaddress==1.0.22
 itsdangerous==0.24
 Jinja2==2.10
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 oss2==2.5.0
 pycparser==2.18
